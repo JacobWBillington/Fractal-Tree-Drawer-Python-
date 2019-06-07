@@ -1,0 +1,2 @@
+# Fractal-Tree-Drawer-Python-
+Uses the implmentation of binary trees to recurse through the drawing of branches to create a facsimile of an actual tree graphically. Random length of branches assists in the apparent similarity with a real tree. Implemented in Python using the turtle library. This project has scope for further implementing using motors and electromagnets to physically draw the tree by moving a ferrous ball bearing in a shallow box of sand. This hardware version will be implemented using a raspberry pi b+.
